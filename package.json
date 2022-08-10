@@ -1,0 +1,15 @@
+{
+  "name": "marketplace-contract",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "asp",
+    "build": "asb"
+  },
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  },
+  "description": "near-101",
+  "license": "MIT",
+  "author": "Bruno Fialho"
+}
